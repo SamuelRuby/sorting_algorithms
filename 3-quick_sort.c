@@ -5,7 +5,7 @@
 *@item1: array element
 *@item2: array element
 */
-void swap(int *array, size_t item1, ssize_t item2)
+void swap(int *array, size_t item1, size_t item2)
 {
 	int tmp;
 
